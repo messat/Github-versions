@@ -1,0 +1,2 @@
+Hello this is the Github text folder! 
+Great to see you from the terminal!
